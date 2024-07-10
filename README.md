@@ -8,6 +8,7 @@ Comandos preliminares:
 3) $ ros2 launch stage_ros2 stage.launch.py world:=cave enforce_prefixes:=false one_tf_tree:=true
 
 Em outro terminal - algoritmo de navegação:
+
 5) $ ros2 run stage_challenge rtt2
 
 
